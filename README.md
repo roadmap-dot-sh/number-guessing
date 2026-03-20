@@ -18,3 +18,7 @@ cd number-guessing
 mvn compile
 mvn exec:java
 ```
+
+App run in terminal like that:
+
+<img src="terminal.png">
